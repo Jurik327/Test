@@ -1,0 +1,6 @@
+POST http://localhost:1234/cars
+Content-Type: application/json
+
+{}
+
+###
